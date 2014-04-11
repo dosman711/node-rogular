@@ -26,7 +26,7 @@
         "url": "https://github.com/dosman711/node-rogular.git"
     },
     "scripts": {
-        "start": "nodejs console.js",
+        "start": "node console.js",
         "test": "./node_modules/.bin/mocha --reporter spec --ui tdd"
     }
 }
