@@ -1,5 +1,6 @@
 node-rogular
 ============
+[![Build Status](https://travis-ci.org/dosman711/node-rogular.svg?branch=master)](https://travis-ci.org/dosman711/node-rogular)
 [![Stories in Ready](https://badge.waffle.io/dosman711/node-rogular.png?label=ready&title=Ready)](https://waffle.io/dosman711/node-rogular)
 
 ## About
